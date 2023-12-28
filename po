@@ -1,0 +1,14 @@
+id_ed25519  id_ed25519.pub  known_hosts  known_hosts.old
+omar@Xubuntu:~/.ssh$ cat id_ed25519
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABDBFOS2uB
+sS4JOIxbntB8QJAAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIK4xA7SWicbWHrzU
+tpfa8W3dbxnks2E2T00g3Yh2nALvAAAAoMSEdB1IGMOfS3ME/xexOKTQ2Ob7PcQ3iru6p5
+A/mdVa+szlrmBPWM5lYjrq8ymUCzDOw6Zn03+dL/MFS9U9UaiV0pBnDX1rWVnhNczu70Wk
+93eAufT7mCi7529gUEkCyDX9P0MK66sq7j3LBBJhQ48wAgur6HIAAGISxaVSfajXBLbGs7
+y40eBgWp5vJcy6u5ZjmlsZpOwgGv89bFcKHwE=
+-----END OPENSSH PRIVATE KEY-----
+omar@Xubuntu:~/.ssh$ cat id_ed25519.pub 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK4xA7SWicbWHrzUtpfa8W3dbxnks2E2T00g3Yh2nALv omar460040@email.com
+omar@Xubuntu:~/.ssh$ cd ..
+
